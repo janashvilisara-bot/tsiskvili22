@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919740200719",
+    "project_id": "talentos-80498",
+    "storage_bucket": "talentos-80498.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919740200719:android:d6d7616a90c43f4738707a",
+        "android_client_info": {
+          "package_name": "app.lovable.f2c74fb6af5c443a849601955de7c85d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFIE7eCkmwiHbyiP_78vVru-zWtwsQH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

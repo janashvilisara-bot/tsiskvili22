@@ -1,0 +1,6 @@
+{
+  "__comment": "TalentOS Local Backend Configuration. Copy to config.json and edit before building the local exe.",
+  "SUPABASE_URL": "http://localhost:8000",
+  "SUPABASE_ANON_KEY": "PASTE_LOCAL_ANON_KEY_HERE",
+  "MODE": "local"
+}
